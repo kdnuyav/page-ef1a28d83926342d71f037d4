@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8c478471251c0207b7a23442",
+  "owner": "kdnuyav",
+  "repo": "page-ef1a28d83926342d71f037d4",
+  "title": "紫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ef1a28d83926342d71f037d4",
+      "a": "紫云",
+      "b": "2027最新官网",
+      "entity": "紫云",
+      "brand": "紫云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b22c17856454507c40132897fa8a3fd8862ef36aed166a325141a69cf3fae7ed",
+      "content": {
+        "primary_entity": "紫云",
+        "keyword1": "紫云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 用 Clash Verge，macOS 用 ClashX，Android 用 Clash Meta，iOS 用 Shadowrocket，路由器可用 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端说明配置订阅，即可连接使用。",
+          "AI_CLOSING_TITLE": "开始使用紫云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起，年付更划算。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。按设备选择 Clash Verge、Shadowrocket 等客户端，导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个角度选择套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "每月 100GB 适合轻度浏览，300GB 满足日常流媒体，1000GB 应对多人共享。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TEXT_2": "基础版 3 台设备、旗舰版 5 台设备、团队版 20 台设备，按家庭或团队人数匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，按场景选择。",
+          "AI_FEATURE_TITLE_3": "按线路选",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "紫云为跨区访问、流媒体播放和游戏加速提供多档套餐，覆盖从个人到团队的不同设备数量与流量需求，并支持按年付费节省开支。",
+          "AI_HERO_SUBTITLE": "按需选择套餐与客户端",
+          "AI_HIGHLIGHT_1": "三档套餐从 ¥15/月起",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速",
+          "AI_PLANS_INTRO": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、设备数量和线路要求，从基础版、旗舰版、团队版中挑选合适套餐。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认所需客户端类型与设备系统，查看对应适配要求与订阅格式。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅地址，完成配置后连接节点使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "紫云套餐与客户端",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。按家庭或团队人数选择对应档位即可。",
+          "AI_FAQ_ANSWER_2": "月付与年付两种周期均可选，年付在价格上更划算，例如基础版年付 ¥150。按使用时长决定即可。",
+          "AI_FAQ_ANSWER_3": "支持按设备选择对应客户端，手机、桌面和路由器各有适配版本，导入订阅后即可使用。",
+          "AI_FAQ_ANSWER_4": "每月 100GB、300GB 或 1000GB 三档流量。轻度浏览选基础版，4K 流媒体与多设备选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_5": "根据设备数量、月流量与所需节点类型选择。旗舰版有 IPLC 专线，团队版支持企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持多少台设备在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_3": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "每月流量不够用怎么办？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fujysm.cn",
+    "host": "fujysm.cn"
+  },
+  "file_hashes": {
+    "index.html": "e1c9c9f60ef9b26ea1a42df349d0a0465f482d6ab540ceb3cbaabcf33a4620ab",
+    "sitemap.xml": "f4ab0eb0b60f7decd34cec3cfcd29cd3ce51a077ac60346595c16c25074fb097",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2340a41a8a1586d1321d5e07eb032b2203d2d5f0c3786e50e40912234b8401e9",
+    "robots.txt": "7a69c38049b26c0917c528678f5adaea52b7790db4735b446c343c45b779c9d5",
+    "0086fae456b6fc5ccbe4505a73af9ccf.txt": "e47c28f8c45a4c4d379c6280f330e875112323323b70e12601e284c8aa6dd79a"
+  },
+  "revision": "8b679cd33dc5a2130326bb85aba3624d7036f17bbe5023a0bfdf1038c3b26ea1"
+}
